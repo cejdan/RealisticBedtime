@@ -1,0 +1,10 @@
+{
+  "Name": "RealisticBedtime",
+  "Author": "Nic Cejda",
+  "Version": "0.1.0",
+  "Description": "Sets the farmers bedtime to 10:00, with increasing penalties each hour you push past 10:00.",
+  "UniqueID": "Cejda.RealisticBedtime",
+  "EntryDll": "RealisticBedtime.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

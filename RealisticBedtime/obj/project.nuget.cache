@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZtDBI75vLqcVNgCfK4a7d1aaO0CR0b3z5xmDRgEGC8NbhAGdahYS24tbWJKnOPvxXThm2KkemCZPkqU9TsKMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ncejd\\source\\repos\\git_realistic_bedtime\\RealisticBedtime\\RealisticBedtime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ncejd\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.1\\pathoschild.stardew.modbuildconfig.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
