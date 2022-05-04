@@ -146,6 +146,7 @@ namespace RealisticBedtime
             {
                 Game1.player.Stamina = (Game1.player.Stamina * 0);
                 Game1.buffsDisplay.addOtherBuff(nonFunctional);
+            }
         } 
 
         private void whenDayEnded(object sender, DayEndingEventArgs e)

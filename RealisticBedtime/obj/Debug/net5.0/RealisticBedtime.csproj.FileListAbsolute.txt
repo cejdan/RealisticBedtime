@@ -8,3 +8,13 @@ C:\Users\ncejd\source\repos\RealisticBedtime\RealisticBedtime\obj\Debug\net5.0\R
 C:\Users\ncejd\source\repos\RealisticBedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.csproj.CoreCompileInputs.cache
 C:\Users\ncejd\source\repos\RealisticBedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.dll
 C:\Users\ncejd\source\repos\RealisticBedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.pdb
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\bin\Debug\net5.0\RealisticBedtime.deps.json
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\bin\Debug\net5.0\RealisticBedtime.dll
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\bin\Debug\net5.0\RealisticBedtime.pdb
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.csproj.AssemblyReference.cache
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.AssemblyInfoInputs.cache
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.AssemblyInfo.cs
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.csproj.CoreCompileInputs.cache
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.dll
+C:\Users\ncejd\source\repos\git_realistic_bedtime\RealisticBedtime\obj\Debug\net5.0\RealisticBedtime.pdb
