@@ -76,6 +76,10 @@ namespace RealisticBedtime
 
         private void whenTimeChange(object sender, TimeChangedEventArgs e)
         {
+            if (e.NewTime == 2100)
+            {
+                Game1.addHUDMessage(new HUDMessage("You are starting to feel sleepy..."));
+            }
             if (e.NewTime == 2210) {
                 Game1.addHUDMessage(new HUDMessage("You are feeling tired...", 3));
             }
